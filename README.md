@@ -13,7 +13,7 @@ Foi criar um arquivo com três funções, sendo uma que testa se a palavra é pa
 [x] Você precisa ter python3 instalado em sua máquina.
 [x] Você pode baixar o arquivo desafio.py ou clonar o repositório
 [x] git clone https://github.com/DiogoIgarassu/desafioslinghub.git
-[x] Você deve entrar na parta do projeto e criar um ambiente virtual
+[x] Você deve entrar na pasta do projeto e criar um ambiente virtual
 [x] cd desafioslighub
 [x] python -m venv venv
 [x] venv\scripts\activate
