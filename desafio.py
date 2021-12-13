@@ -25,6 +25,7 @@ def dicionario_aberto(word):
     else:
         return print('A sequência {}{} não existe{} no dicionário português'.format(YEL, word, ICOR))
 
+    
 def teste_palindromo(palavra):
     """Retorna True se a palavra é palíndroma,
         retorna False se a palavra e seu inverso não
@@ -36,9 +37,7 @@ def teste_palindromo(palavra):
         print(f'{str(palavra)} é diferente de {str(palavra)[::-1]}')
         return False
 
-
-
-
+    
 def allPermutations(palavra):
     """ Cria todas as permutações de letras e rearranja as sequências e
      verifica se é palíndroma """
